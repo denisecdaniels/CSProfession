@@ -1,3 +1,3 @@
 # CSProfession
 
-I love Computer Scienc.
+I love Computer Science.
